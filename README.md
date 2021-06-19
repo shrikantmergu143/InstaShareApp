@@ -11,20 +11,17 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-![Uploading settting.jpg…](
-![register](https://user-images.githubusercontent.com/69249035/122640384-d9e6c080-d11c-11eb-9fb1-53448e9756f1.jpg)
 
-![login](https://user-images.githubusercontent.com/69249035/122640379-d7846680-d11c-11eb-9c2a-065fcb090a74.jpg)
 
-![home](https://user-images.githubusercontent.com/69249035/122640370-d0f5ef00-d11c-11eb-88a8-94cca93af441.jpg)
 
-![addpost](https://user-images.githubusercontent.com/69249035/122640362-c89db400-d11c-11eb-8b27-7a8e9eeb187e.jpg)
+![register](https://user-images.githubusercontent.com/69249035/122640458-609b9d80-d11d-11eb-8b03-0504439d2fd4.jpg)
+![login](https://user-images.githubusercontent.com/69249035/122640462-65605180-d11d-11eb-8eaa-75cbd16f8a7b.jpg)
+![home](https://user-images.githubusercontent.com/69249035/122640469-6b563280-d11d-11eb-8aef-c769b5cbd36d.jpg)
+![addpost](https://user-images.githubusercontent.com/69249035/122640475-70b37d00-d11d-11eb-9e84-2cd7aa6022b3.jpg)
+![savepost](https://user-images.githubusercontent.com/69249035/122640489-7c06a880-d11d-11eb-9526-19086bd2607b.jpg)
+![post](https://user-images.githubusercontent.com/69249035/122640498-89bc2e00-d11d-11eb-9da2-29007e7c972a.jpg)
 
-![feedpost](https://user-images.githubusercontent.com/69249035/122640368-cdfafe80-d11c-11eb-96e1-aa3233a4d5f8.jpg)
-![1](https://user-images.githubusercontent.com/69249035/122640358-c63b5a00-d11c-11eb-8b1f-c5a3de554776.jpg)
-
-![10](https://user-images.githubusercontent.com/69249035/122640359-c76c8700-d11c-11eb-858d-0baf9c90104e.jpg)
-![followers](https://user-images.githubusercontent.com/69249035/122640369-cfc4c200-d11c-11eb-9f6e-d8aa445cfc42.jpg)
-![messageChatting](https://user-images.githubusercontent.com/69249035/122640380-d81cfd00-d11c-11eb-88ff-df4517e30f33.png)
-![post](https://user-images.githubusercontent.com/69249035/122640382-d8b59380-d11c-11eb-958e-996fc033d229.jpg)
-![profile](https://user-images.githubusercontent.com/69249035/122640383-d94e2a00-d11c-11eb-8dc4-a75f22b8b635.jpg)
+![feedpost](https://user-images.githubusercontent.com/69249035/122640480-75783100-d11d-11eb-8cf8-16a96c76dea4.jpg)
+![messageChatting](https://user-images.githubusercontent.com/69249035/122640512-9771b380-d11d-11eb-81e5-4e3b4eecc757.png)
+![profile](https://user-images.githubusercontent.com/69249035/122640518-9fc9ee80-d11d-11eb-9f3d-c61df0220554.jpg)
+![settting](https://user-images.githubusercontent.com/69249035/122640527-a3f60c00-d11d-11eb-98a2-0a21c683cbf3.jpg)
